@@ -10,6 +10,7 @@
 *.userosscache
 *.sln.docstates
 
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -223,6 +224,7 @@ _pkginfo.txt
 *.appxbundle
 *.appxupload
 
+
 # Visual Studio cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
@@ -290,6 +292,7 @@ node_modules/
 
 # Visual Studio 6 workspace options file
 *.opt
+minhasPendencias.txt
 
 # Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
 *.vbw
